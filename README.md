@@ -1,5 +1,5 @@
-# Omnifood :hamburger: :fries: :pizza:
-Online food delivery service website prototype. This project was made by referencing online tutorial in udemy "Build Responsive Real World Websites with HTML5 and CSS3" by Jonas Schmedtmann.
+# Omnifood :hamburger: :fries: 
+Online Food Delivery Service Website Prototype. This Project was made during my Internship as Frontend Web Developer. 
 
 ---
 
